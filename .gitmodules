@@ -1,0 +1,3 @@
+[submodule "algashop-docs"]
+	path = algashop-docs
+	url = git@github.com:daniel-azevedo-maia/algashop-docs.git
